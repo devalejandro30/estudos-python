@@ -79,37 +79,37 @@ Tabela Condições IMC
 
  13 - Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
 
-14 - Faça um algoritmo que receba um valor A e B, e troque o valor de A por B e o valor de B por A e imprima na tela os valores.
+ 14 - Faça um algoritmo que receba um valor A e B, e troque o valor de A por B e o valor de B por A e imprima na tela os valores.
 
-15 - Faça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e dias essa pessoa ja viveu. Leve em 
+ 15 - Faça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e dias essa pessoa ja viveu. Leve em 
 
-consideração o ano com 365 dias e o mês com 30 dias.
+ consideração o ano com 365 dias e o mês com 30 dias.
 
-(Ex: 5 anos, 2 meses e 15 dias de vida)
+ (Ex: 5 anos, 2 meses e 15 dias de vida)
 
-16 - Faça um algoritmo que leia três valores que representam os três lados de um triângulo e verifique se são válidos, determine se o triângulo é 
+ 16 - Faça um algoritmo que leia três valores que representam os três lados de um triângulo e verifique se são válidos, determine se o triângulo é 
 
-equilátero, isósceles ou escaleno.
+ equilátero, isósceles ou escaleno.
 
-17 - Faça um algoritmo que leia uma temperatura em Fahrenheit e calcule a temperatura correspondente em grau Celsius. Imprima na tela as duas temperaturas.
+ 7 - Faça um algoritmo que leia uma temperatura em Fahrenheit e calcule a temperatura correspondente em grau Celsius. Imprima na tela as duas temperaturas.
 
-Fórmula: C = (5 * ( F-32) / 9)
+ Fórmula: C = (5 * ( F-32) / 9)
 
-18 - Francisco tem 1,50m e cresce 2 centímetros por ano, enquanto Sara tem 1,10m e cresce 3 centímetros por ano. Faça um algoritmo que calcule e imprima na tela em quantos anos serão necessários para que Francisco seja maior que Sara.
+ 18 - Francisco tem 1,50m e cresce 2 centímetros por ano, enquanto Sara tem 1,10m e cresce 3 centímetros por ano. Faça um algoritmo que calcule e imprima na tela em quantos anos serão necessários para que Francisco seja maior que Sara.
 
-19 - Faça um algoritmo que imprima na tela a tabuada de 1 até 10.
+ 19 - Faça um algoritmo que imprima na tela a tabuada de 1 até 10.
 
-20 - Faça um algoritmo que receba um valor inteiro e imprima na tela a sua tabuada.
+ 20 - Faça um algoritmo que receba um valor inteiro e imprima na tela a sua tabuada.
 
-21 - Faça um algoritmo que mostre um valor aleatório entre 0 e 100.
+ 21 - Faça um algoritmo que mostre um valor aleatório entre 0 e 100.
 
-22 - Faça um algoritmo que leia dois valores inteiros A e B, imprima na tela o quociente e o resto da divisão inteira entre eles.
+ 22 - Faça um algoritmo que leia dois valores inteiros A e B, imprima na tela o quociente e o resto da divisão inteira entre eles.
 
-21 - Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido final.
+ 21 - Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido final.
 
-22 - Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
+ 22 - Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
 
-Fórmula: distância = tempo x velocidade.
+ Fórmula: distância = tempo x velocidade.
 
             litros usados = distância / 12.'
-'''
+ '''
