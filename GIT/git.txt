@@ -1,0 +1,1 @@
+git add -p -> permite revisara as mudanças feitas
