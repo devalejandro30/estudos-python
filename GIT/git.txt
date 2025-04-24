@@ -1,1 +1,7 @@
 git add -p -> permite revisara as mudanças feitas
+y -> para confirmar a mudança
+rebase / merge / merge --squash (estudar depois)
+git diff -> mostra a != entre o aquivo no diretório local e a staging
+git diff --staged -> != entre staginf e o local repository
+git log -> mostra os commits na branch atual
+git rm <nomedoarquivo> -> deletar arquivos em staging (rm <nomedoarquivo>)
